@@ -1,0 +1,8 @@
+2020-04-04 20:02:46,045  INFO [main] BaseClass:31 - **********Browser Launched**********
+2020-04-04 20:03:13,606  INFO [main] BaseClass:36 - **********Browser Maximized**********
+2020-04-04 20:06:21,870  INFO [main] BaseClass:49 - **********Login Success**********
+2020-04-04 20:06:22,095  INFO [main] BaseClass:20 - **********Customer Name is fetched from Excel**********
+2020-04-04 20:06:22,323  INFO [main] BaseClass:22 - **********Project Name is Fetched from Excel**********
+2020-04-04 20:06:53,998  INFO [main] BaseClass:25 - **********Projects and Customers Link is Clicked**********
+2020-04-04 20:07:26,951  INFO [main] BaseClass:54 - **********Logout Success**********
+2020-04-04 20:07:27,188  INFO [main] BaseClass:42 - **********Browser Closed**********
